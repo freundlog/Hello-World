@@ -10,7 +10,7 @@
 **Hello World**
 
 # ***Description of the Project***
-Practiced using GitHub by creating a sample repository. A repository is a place that contains project files and the revision history of those files
+*Practiced using GitHub by creating a sample repository. A repository is a place that contains project files and the revision history of those files*
 
 # ***How to Run Program***
 
@@ -28,11 +28,11 @@ Practiced using GitHub by creating a sample repository. A repository is a place 
 
 # ***Extra Documentation***
 
-**NONE**
+<sub>**NONE**<sub>
 
 # ***Versioning***
 
-**N/A**
+<sub>**N/A**<sub>
 
 
 
